@@ -17,3 +17,5 @@ e outra para alguém de dentro da ONG para verificar o estoque.
 
 infelizmente pela falta de conhecimento de banco de dados da parte do grupo, não foi possível
 tornar a aplicação realmente funcional ainda, porém já é possivel ter uma ideia de como funcionaria.
+
+# Foi utilizado: HTML, CSS E JAVASCRIPT 
